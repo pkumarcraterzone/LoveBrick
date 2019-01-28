@@ -108,6 +108,8 @@ public class TestClass {
 		
 		System.out.println("hello master ");
 		System.out.println("hello master ");
+		System.out.println("hello master ");
+		System.out.println("hello master ");
 		
 		brick1.addFlag(new Flag(user1, "hhhhhhhhhhh"));
 		brick1.addFlag(new Flag(user1, "hhhhhhhhhhh"));
