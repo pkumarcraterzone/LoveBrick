@@ -121,6 +121,14 @@ public class TestClass {
 		System.out.println("khgdjsfds");
 		System.out.println("khgdjsfds");
 		
+		
+		System.out.println("khgdjsfds");
+		System.out.println("khgdjsfds");
+		System.out.println("khgdjsfds");
+		System.out.println("khgdjsfds");
+		System.out.println("khgdjsfds");
+		System.out.println("khgdjsfds");
+		
 		//flags usecase
 		System.out.println(brick1.isVisible());
 		
