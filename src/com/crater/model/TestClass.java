@@ -106,6 +106,7 @@ public class TestClass {
 		brick1.addFlag(new Flag(user1, "hhhhhhhhhhh"));
 		brick1.addFlag(new Flag(user1, "hhhhhhhhhhh"));
 		
+		System.out.println("hello master ");
 		
 		
 		//flags usecase
