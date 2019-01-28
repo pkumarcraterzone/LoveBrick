@@ -109,8 +109,6 @@ public class TestClass {
 <<<<<<< HEAD
 		System.out.println("hello master ");
 		System.out.println("hello master ");
-		System.out.println("hello master ");
-		System.out.println("hello master ");
 =======
 		
 >>>>>>> test
