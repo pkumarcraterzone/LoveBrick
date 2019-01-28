@@ -106,14 +106,8 @@ public class TestClass {
 		brick1.addFlag(new Flag(user1, "hhhhhhhhhhh"));
 		brick1.addFlag(new Flag(user1, "hhhhhhhhhhh"));
 		
-<<<<<<< HEAD
 		System.out.println("hello master ");
 		System.out.println("hello master ");
-		System.out.println("hello master ");
-		System.out.println("hello master ");
-=======
-		
->>>>>>> test
 		
 		brick1.addFlag(new Flag(user1, "hhhhhhhhhhh"));
 		brick1.addFlag(new Flag(user1, "hhhhhhhhhhh"));
@@ -124,20 +118,6 @@ public class TestClass {
 		System.out.println("khgdjsfds");
 		System.out.println("khgdjsfds");
 		System.out.println("khgdjsfds");
-		System.out.println("khgdjsfds");
-<<<<<<< HEAD
-=======
-		System.out.println("khgdjsfds");
-		System.out.println("khgdjsfds");
-		
-		
-		System.out.println("khgdjsfds");
-		System.out.println("khgdjsfds");
-		System.out.println("khgdjsfds");
-		System.out.println("khgdjsfds");
-		System.out.println("khgdjsfds");
-		System.out.println("khgdjsfds");
->>>>>>> test
 		
 		//flags usecase
 		System.out.println(brick1.isVisible());
