@@ -113,7 +113,8 @@ public class TestClass {
 		brick1.addFlag(new Flag(user1, "hhhhhhhhhhh"));
 	
 		
-		
+		System.out.println("khgdjsfds");
+		System.out.println("khgdjsfds");
 		
 		//flags usecase
 		System.out.println(brick1.isVisible());
