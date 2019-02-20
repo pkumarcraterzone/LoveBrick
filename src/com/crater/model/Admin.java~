@@ -1,7 +1,7 @@
 package com.crater.model;
 
 public class Admin extends User{
-//heloo
+
 	public Admin(String userName, City city) {
 		super(userName, city);
 	
